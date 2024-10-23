@@ -1,0 +1,6 @@
+env/
+training/
+test_data/
+yolo11n.pt
+__pycache__/
+runs/
